@@ -1,0 +1,18 @@
+CHAPTER 12: Dynamic Memory Allocation
+------------------------------------------
+1. Introduction to Dynamic Memory
+2. Static vs Dynamic Memory Allocation
+3. Stack vs Heap Memory
+4. Memory Allocation Functions
+5. malloc()
+6. calloc()
+7. realloc()
+8. free()
+9. Dynamic Array Creation
+10. Dynamic Memory for Strings
+11. Dynamic Multidimensional Arrays
+12. Memory Leaks
+13. Buffer Overflow
+14. Dangling Pointer Problems
+15. Memory Allocation Failures
+16. Memory Management Best Practices

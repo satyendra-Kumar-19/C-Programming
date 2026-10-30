@@ -1,0 +1,21 @@
+CHAPTER 16: Advanced Language Concepts
+------------------------------------------
+1. Type Qualifiers
+   - const
+   - volatile
+   - restrict
+2. Bitwise Operations in Depth
+3. Bit Fields
+4. Command-Line Arguments (argc, argv)
+5. Variable-Length Arrays (VLAs)
+6. Compound Literals
+7. Designated Initializers
+8. _Generic
+9. Inline Functions
+10. Function Pointers in Depth
+11. Undefined Behavior
+12. Implementation-Defined Behavior
+13. Evaluation Order
+14. Strict Aliasing
+15. Alignment and Padding
+16. Structure Padding

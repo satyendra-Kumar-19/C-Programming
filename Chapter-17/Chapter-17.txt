@@ -1,0 +1,47 @@
+==================================================
+PHASE 6: PROFESSIONAL C PROGRAMMING
+==================================================
+
+CHAPTER 17: Data Structures and Algorithms Using C
+------------------------------------------
+
+A. LINEAR DATA STRUCTURES
+
+1. Introduction to Data Structures
+2. Abstract Data Types (ADT)
+3. Linked Lists
+4. Singly Linked Lists
+5. Doubly Linked Lists
+6. Circular Linked Lists
+7. Stacks
+8. Stack Using Arrays
+9. Stack Using Linked Lists
+10. Queues
+11. Circular Queues
+12. Priority Queues
+
+B. NON-LINEAR DATA STRUCTURES
+
+13. Trees
+14. Binary Trees
+15. Binary Search Trees
+16. Tree Traversal
+17. Heaps
+18. Graphs
+19. Graph Representation
+20. Breadth-First Search (BFS)
+21. Depth-First Search (DFS)
+
+C. ALGORITHMS
+
+22. Linear Search
+23. Binary Search
+24. Bubble Sort
+25. Selection Sort
+26. Insertion Sort
+27. Merge Sort
+28. Quick Sort
+29. Recursion-Based Algorithms
+30. Time Complexity
+31. Space Complexity
+32. Big O Notation

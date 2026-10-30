@@ -1,0 +1,28 @@
+CHAPTER 14: File Handling
+------------------------------------------
+1. Introduction to File Handling
+2. Need for Files
+3. File Pointers
+4. Opening Files Using fopen()
+5. File Opening Modes
+6. Closing Files Using fclose()
+7. Reading Files
+8. Writing Files
+9. Appending Data
+10. Character-Based Operations
+    - fgetc()
+    - fputc()
+11. String-Based Operations
+    - fgets()
+    - fputs()
+12. Formatted File Operations
+    - fprintf()
+    - fscanf()
+13. Binary File Operations
+    - fread()
+    - fwrite()
+14. Random File Access
+15. fseek()
+16. ftell()
+17. rewind()
+18. Error Handling in File Operations

@@ -1,0 +1,26 @@
+
+CHAPTER 9: Arrays
+------------------------------------------
+1. Introduction to Arrays
+2. Need for Arrays
+3. Array Declaration and Initialization
+4. Accessing Array Elements
+5. Array Indexing
+6. Traversing Arrays
+7. Finding Array Length Using sizeof
+8. Taking Array Input
+9. Displaying Array Elements
+10. Array Operations
+11. Sum and Average
+12. Maximum and Minimum Elements
+13. Searching Elements
+14. Reversing an Array
+15. Sorting an Array
+16. Passing Arrays to Functions
+17. Multidimensional Arrays
+18. Two-Dimensional Arrays
+19. Matrix Operations
+20. Matrix Addition and Subtraction
+21. Matrix Multiplication
+22. Matrix Transpose
+23. Three-Dimensional Arrays

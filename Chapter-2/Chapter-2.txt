@@ -1,0 +1,16 @@
+CHAPTER 2: Basic Syntax and Input/Output
+------------------------------------------
+1. Tokens in C
+2. Keywords
+3. Identifiers
+4. Constants
+5. Variables
+6. Comments
+7. Escape Sequences
+8. printf() Function
+9. scanf() Function
+10. Format Specifiers
+11. Conversion Characters
+12. Width and Precision
+13. Special Characters
+14. Basic Input/Output Operations

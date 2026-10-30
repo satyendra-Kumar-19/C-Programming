@@ -1,0 +1,67 @@
+
+==================================================
+PHASE 1: C PROGRAMMING FUNDAMENTALS
+==================================================
+
+CHAPTER 1: Introduction to C Programming
+------------------------------------------
+1. What is Programming?
+2. Introduction to C
+3. History of C
+4. Features of C
+5. Applications of C
+6. C vs C++ vs Java vs Python
+7. Compiler, Interpreter and Assembler
+8. Compilation and Execution Process
+9. Structure of a C Program
+10. Source Code, Object Code and Executable Files
+11. Installing and Configuring C Compiler
+12. Writing First C Program
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+RECOMMENDED C STANDARD
+==================================================
+
+1. C89/C90 (1989/1990)
+2. C99 (1999)
+3. C11 (2011)
+4. C17 (2018)
+5. C23 (2024)
+
+RECOMMENDATION:
+Learn modern, portable C using C17 as
+your primary learning standard.
+Explore C23 features afterwards.
+
+
+==================================================
+LEARNING STRATEGY
+==================================================
+
+1. Understand the WHY before the WHAT.
+2. Learn concepts before memorizing syntax.
+3. Write programs independently.
+4. Practice logical problems regularly.
+5. Understand memory and internal working.
+6. Build projects after major chapters.
+7. Learn debugging and error handling.
+8. Revise previous concepts regularly.
+9. Follow standard C programming practices.
+10. Never skip pointers and memory management.
+
+FINAL GOAL:
+Become proficient in C programming,
+problem-solving, memory management,
+data structures, algorithms and
+system-level programming.
+==================================================

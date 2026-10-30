@@ -1,0 +1,17 @@
+==================================================
+PHASE 2: DECISION-MAKING AND PROGRAM CONTROL
+==================================================
+
+CHAPTER 5: Conditional Statements
+------------------------------------------
+1. Introduction to Decision-Making
+2. if Statement
+3. if-else Statement
+4. Nested if-else
+5. Else-if Ladder
+6. Multiple Conditions
+7. switch Statement
+8. Nested switch
+9. break and default
+10. Conditional Operator vs if-else
+11. Common Conditional Mistakes

@@ -1,0 +1,23 @@
+==================================================
+PRACTICAL PROJECT ROADMAP
+==================================================
+
+BEGINNER PROJECTS
+1. Simple Calculator
+2. Number Guessing Game
+3. Multiplication Table Generator
+4. Pattern Generator
+
+INTERMEDIATE PROJECTS
+5. Student Marks Management System
+6. Library Management System
+7. Contact Management System
+8. Quiz Application
+
+ADVANCED PROJECTS
+9. Dynamic Student Database
+10. Banking Management System
+11. Mini Text Editor
+
+PROFESSIONAL PROJECT
+12. Custom Data Structure Library

@@ -1,0 +1,24 @@
+CHAPTER 3: Data Types and Variables
+------------------------------------------
+1. Introduction to Data Types
+2. Fundamental Data Types
+   - int
+   - char
+   - float
+   - double
+   - void
+3. Type Modifiers
+   - short
+   - long
+   - signed
+   - unsigned
+4. Variable Declaration and Initialization
+5. Local and Global Variables
+6. Constants Using const
+7. Integer and Floating-Point Literals
+8. Type Suffixes (f, L, U, etc.)
+9. sizeof Operator
+10. Memory Requirements of Data Types
+11. Type Conversion
+12. Implicit Type Conversion
+13. Explicit Type Casting

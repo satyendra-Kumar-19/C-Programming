@@ -1,0 +1,29 @@
+==================================================
+PHASE 3: FUNCTIONS AND DATA STRUCTURES
+==================================================
+
+CHAPTER 8: Functions in C
+------------------------------------------
+1. Introduction to Functions
+2. Need for Functions
+3. Library Functions
+4. User-Defined Functions
+5. Function Declaration
+6. Function Definition
+7. Function Calling
+8. Parameters and Arguments
+9. Return Values
+10. Function Prototypes
+11. Types of User-Defined Functions
+12. Call by Value
+13. Address-Based Argument Modification
+14. Recursive Functions
+15. Recursion vs Iteration
+16. Scope and Lifetime of Variables
+17. Local and Global Variables
+18. Static Local Variables
+19. Storage Classes
+    - auto
+    - register
+    - static
+    - extern

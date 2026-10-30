@@ -1,0 +1,22 @@
+==================================================
+PHASE 5: ADVANCED C PROGRAMMING
+==================================================
+
+CHAPTER 13: Structures and Unions
+------------------------------------------
+1. Introduction to Structures
+2. Need for Structures
+3. Structure Declaration and Initialization
+4. Accessing Structure Members
+5. Array of Structures
+6. Nested Structures
+7. Structures and Functions
+8. Pointers to Structures
+9. Arrow Operator (->)
+10. Self-Referential Structures
+11. Introduction to Unions
+12. Union Declaration and Initialization
+13. Structure vs Union
+14. Memory Allocation in Structures and Unions
+15. typedef Keyword
+16. Enumerations (enum)

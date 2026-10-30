@@ -1,0 +1,22 @@
+CHAPTER 10: Strings
+------------------------------------------
+1. Introduction to Strings
+2. Characters vs Strings
+3. Character Arrays
+4. String Declaration and Initialization
+5. Null Character (\0)
+6. Taking String Input
+7. Displaying Strings
+8. String Input Using fgets()
+9. String Output Using puts()
+10. String Handling Functions
+    - strlen()
+    - strcpy()
+    - strncpy()
+    - strcat()
+    - strcmp()
+    - strchr()
+    - strstr()
+11. Array of Strings
+12. Passing Strings to Functions
+13. Implementing String Operations Manually

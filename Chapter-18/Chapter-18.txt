@@ -1,0 +1,20 @@
+CHAPTER 18: Professional Development and System-Level Programming
+------------------------------------------
+1. Writing Modular C Programs
+2. Multi-File Programming
+3. Header and Source File Organization
+4. Compilation and Linking
+5. Static and Dynamic Libraries
+6. Makefiles and Build Automation
+7. Debugging With GDB
+8. Compiler Warnings and Error Analysis
+9. GCC Compiler Options
+10. Memory Debugging
+11. Unit Testing
+12. Defensive Programming
+13. Secure Coding Practices
+14. POSIX Basics
+15. System Calls
+16. Process Management
+17. Operating System Interactions
+18. Introduction to Embedded C

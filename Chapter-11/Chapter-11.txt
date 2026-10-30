@@ -1,0 +1,30 @@
+==================================================
+PHASE 4: POINTERS AND MEMORY MANAGEMENT
+==================================================
+
+CHAPTER 11: Pointers
+------------------------------------------
+1. Introduction to Pointers
+2. Memory Addresses
+3. Understanding RAM and Memory Locations
+4. Address-of Operator (&)
+5. Dereference Operator (*)
+6. Pointer Declaration and Initialization
+7. Accessing Values Through Pointers
+8. Pointer Types
+9. NULL Pointers
+10. Void Pointers
+11. Wild Pointers
+12. Dangling Pointers
+13. Pointer Arithmetic
+14. Pointers and Arrays
+15. Relationship Between Arrays and Pointers
+16. Pointers and Strings
+17. Pointers as Function Arguments
+18. Pointers to Pointers
+19. Array of Pointers
+20. Pointer to an Array
+21. Function Pointers
+22. Constant Pointers
+23. Pointers to Constants
+24. Constant Pointers to Constants
